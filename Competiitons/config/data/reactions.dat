@@ -1,0 +1,8 @@
+# Avida reaction data
+# Mon Nov  2 21:32:37 2015
+# First column gives the current update, all further columns give the number
+# of currently living organisms each reaction has affected.
+#  1: Update
+#  2: CONSUME
+
+0 0 
